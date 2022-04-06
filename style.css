@@ -21,3 +21,8 @@ a {
     cursor: pointer;
     text-transform: uppercase;
 }
+
+img {
+    overflow: hidden;
+    margin: 0 auto;
+}
